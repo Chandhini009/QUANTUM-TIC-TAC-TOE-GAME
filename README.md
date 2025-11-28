@@ -42,7 +42,12 @@ Multiplayer mode (local or online).
 | **Streamlit** | Web app framework |
 
 ---
+## RESULTS
 
+<img width="1897" height="881" alt="Screenshot 2025-11-13 204017" src="https://github.com/user-attachments/assets/1cb3e79a-6cad-4470-9b93-3d8278627462" />
+
+
+---
 ## ⚙️ Installation
 
 ### 1️⃣ Clone or Download
